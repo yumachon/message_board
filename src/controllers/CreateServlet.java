@@ -14,7 +14,7 @@ import models.Message;
 import utils.DBUtil;
 
 /**
- * Servlet implementation class createServlet
+ * Servlet implementation class CreateServlet
  */
 @WebServlet("/create")
 public class CreateServlet extends HttpServlet {
@@ -25,7 +25,6 @@ public class CreateServlet extends HttpServlet {
      */
     public CreateServlet() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
     /**
